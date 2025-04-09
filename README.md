@@ -47,3 +47,5 @@ chrom devtools
 
 
 https://designrevision.com/downloads/shards/
+
+https://github.com/search?q=react+landing+page&type=repositories
