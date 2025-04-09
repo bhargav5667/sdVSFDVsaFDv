@@ -43,3 +43,4 @@ https://github.com/GitHubDaily/GitHubDaily?tab=readme-ov-file
 
 https://github.com/topics/css-tools?o=desc&s=stars
 
+chrom devtools
