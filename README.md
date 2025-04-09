@@ -49,3 +49,26 @@ chrom devtools
 https://designrevision.com/downloads/shards/
 
 https://github.com/search?q=react+landing+page&type=repositories
+
+https://wangchujiang.com/tools/
+https://github.com/topics/developer-tools             
+https://github.com/hoppscotch/hoppscotch
+https://github.com/puppeteer/puppeteer
+https://github.com/localstack/localstack
+https://github.com/streamlit/streamlit
+https://github.com/GitHubDaily/GitHubDaily?tab=readme-ov-file    
+
+
+https://github.com/topics/css-tools?o=desc&s=stars
+
+chrom devtools
+
+
+https://designrevision.com/downloads/shards/
+https://cruip.com/
+
+https://cruip.com/
+u can view ideas from here 
+https://tailwindcss.com/showcase
+https://vercel.com/templates/next.js?utm_source=next-site&utm_medium=navbar&utm_campaign=next_site_nav_templates
+https://themes.getbootstrap.com/
