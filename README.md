@@ -29,3 +29,17 @@ https://github.com/supabase/supabase
 https://github.com/shadcn-ui/ui       
 https://github.com/langgenius/dify                 
 https://github.com/ChatGPTNextWeb/NextChat                 
+
+
+https://github.com/CorentinTh/it-tools          
+https://wangchujiang.com/tools/
+https://github.com/topics/developer-tools             
+https://github.com/hoppscotch/hoppscotch
+https://github.com/puppeteer/puppeteer
+https://github.com/localstack/localstack
+https://github.com/streamlit/streamlit
+https://github.com/GitHubDaily/GitHubDaily?tab=readme-ov-file    
+
+
+https://github.com/topics/css-tools?o=desc&s=stars
+
